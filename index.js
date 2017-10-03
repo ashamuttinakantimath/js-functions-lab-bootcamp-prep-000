@@ -5,3 +5,8 @@ function happyHolidays(name)
 
 }
 happyHolidays('asha')
+function happyHolidaysTo(holiday,name)
+{
+  console.log(`happy,${holiday},{name}`)
+}
+happyHolidaysTo('diwali','akshara')
